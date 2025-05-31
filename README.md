@@ -1,4 +1,4 @@
-<img alt-"PUJA PEGU" width--"1θθ%" src-"/.Profile.gif">
+<img alt-"PujaP125" width--"100%" src-"./Profile.gif">
 <h1 align="center" > Hi 👋, I'm PUJA PEGU</h1>
         <h3 align="center" >A Passionate Graphic Designer</h3>
         <p align-"left"> <img src-"https://komarev.com/ghpvc/?username-PujaP125&label-profile%2θviews&color-θe75b6&style-flat" alt-"PujaP125" /> </p>
@@ -19,6 +19,6 @@
         <a href="https://PujaP125.github.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/PujaP125/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PujaP125" height="30" width="40" /></a>
         <a href="https://www.linkedin.com/in/puja-pegu-49a865309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/PujaP125/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pujapegu2" height="30" width="40" /> </a>
         <a href="https://www.instagram.com/puja_p25?igsh=MXE0ZHU3YzhkdzYyYw=" target="blank"><img align="center" src="https://raw.githubusercontent.com/PujaP125/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puja_p25" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/@pujapegu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/PujaP125/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pujapegu2" height="30" width="40" /> </a>
-        <a href="pujapegu20.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" alt="pujapegu20" height="30" width="40" /></a>
+        <a href="https://www.youtube.com/@pujapegu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/PujaP125/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="PujaP125" height="30" width="40" /> </a>
+        <a href="pujapegu20.blogspot.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/2048px-Blogger_icon.svg.png" alt="PujaP125" height="30" width="40" /></a>
         </p>
