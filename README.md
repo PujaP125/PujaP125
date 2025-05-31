@@ -1,4 +1,4 @@
-<img alt-"PujaP125" width--"100%" src-"./Profile.gif">
+<img alt-"PujaP125" width-"100" src-"./Profile.gif">
 <h1 align="center" > Hi 👋, I'm PUJA PEGU</h1>
         <h3 align="center" >A Passionate Graphic Designer</h3>
         <p align-"left"> <img src-"https://komarev.com/ghpvc/?username-PujaP125&label-profile%2θviews&color-θe75b6&style-flat" alt-"PujaP125" /> </p>
