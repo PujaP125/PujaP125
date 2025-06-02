@@ -1,4 +1,4 @@
-<img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
+<img  alt="portfolio" width="100%" src=". profile.gif">
 <h1 align="center" > Hi 👋, I'm PUJA PEGU</h1>
         <h3 align="center" >A Passionate Graphic Designer</h3>
         <p align-"left"> <img src-"https://komarev.com/ghpvc/?username-PujaP125&label-profile%2θviews&color-θe75b6&style-flat" alt-"PujaP125" /> </p>
